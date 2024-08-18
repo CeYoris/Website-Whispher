@@ -64,6 +64,7 @@ body {
 
 .editinfo {
   padding-top: 6rem;
+  margin-right: 0rem;
 }
 
 @media all and (max-width: 900px) {
@@ -76,6 +77,7 @@ body {
   .editinfo {
     padding-top: 3rem;
     padding-left: 6rem;
+    margin-right: 3rem;
   }
 }
 
@@ -89,6 +91,7 @@ body {
   .editinfo {
     padding-top: 2rem;
     padding-left: 6rem;
+    margin-right: 3rem;
   }
 }
 
@@ -102,6 +105,7 @@ body {
   .editinfo {
     padding-top: 2rem;
     padding-left: 6rem;
+    margin-right: 3rem;
   }
 
   .NavBar .container .logo {
