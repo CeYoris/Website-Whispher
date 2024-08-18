@@ -103,6 +103,10 @@ body {
     padding-top: 2rem;
     padding-left: 6rem;
   }
+
+  .NavBar .container .logo {
+    margin-left: 43%;
+  }
 }
 
 .cdx-input {
