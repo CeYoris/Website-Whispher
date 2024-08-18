@@ -105,7 +105,19 @@ body {
   }
 
   .NavBar .container .logo {
+    margin-left: 44%;
+  }
+}
+
+@media all and (max-width: 600px) {
+  .NavBar .container .logo {
     margin-left: 42%;
+  }
+}
+
+@media all and (max-width: 500px) {
+  .NavBar .container .logo {
+    margin-left: 40%;
   }
 }
 
