@@ -18,6 +18,36 @@ body {
   color: var(--color-text-main);
 }
 
+/* Animation */
+
+.zoomin {
+  animation: zoomin 0.5s ease-in forwards;
+}
+
+.loadsplash {
+  animation: loadsplash 1.5s ease-out forwards;
+}
+
+/* Splash */
+
+.splash {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: #F6F6F6;
+  z-index: 200;
+  color: black;
+  text-align: center;
+  line-height: 98vh;
+}
+
+.splash-logo {
+  height: 5rem;
+  width: auto;
+}
+
 /* NavBar */
 
 .NavBar {

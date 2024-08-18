@@ -1,0 +1,25 @@
+@keyframes zoomin {
+  from {
+    opacity: 0;
+    zoom: 0.9;
+  }
+
+  to {
+    opacity: 1;
+    zoom: 1;
+  }
+}
+
+@keyframes loadsplash {
+  0% {
+    opacity: 1;
+  }
+
+  85% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
